@@ -1,0 +1,2 @@
+Producto [articulo=qwqqeq, precio=123300, descripcion=223dwdsdd, codigo=1200, talla=s, marca=aass, color=azul]
+Producto [articulo=hola, precio=100000, descripcion=ssdfdfddfdfddf, codigo=3001, talla=XL, marca=DDFGFGG, color=rojo]

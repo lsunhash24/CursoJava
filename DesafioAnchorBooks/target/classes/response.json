@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103938792-90279200-5109-11eb-906a-50ac3b73e40d.jpg",
+    "language": "English",
+    "title": "Things Fall Apart"
+  },
+  {
+    "id": 2,
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103938837-a1709e80-5109-11eb-9660-96b17ed8105d.jpg",
+    "language": "Danish",
+    "title": "Fairy tales"
+  },
+  {
+    "id": 3,
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103938865-a9c8d980-5109-11eb-9e4b-e90166846222.jpg",
+    "language": "Italian",
+    "title": "The Divine Comedy"
+  },
+  {
+    "id": 4,
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103940712-910df300-510c-11eb-8a2b-a3482d4809e4.jpg",
+    "language": "Akkadian",
+    "title": "The Epic Of Gilgamesh"
+  },
+  {
+    "id": 5,
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103940846-cc102680-510c-11eb-8868-a8c5e52ebc0b.jpg",
+    "language": "Hebrew",
+    "title": "The Book Of Job"
+  },
+  {
+    "id": 6,
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103940972-f530b700-510c-11eb-86d5-7290315b410e.jpg",
+    "language": "Arabic",
+    "title": "One Thousand and One Nights"
+  },
+  {
+    "id": 7,
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103941123-2c9f6380-510d-11eb-9fee-f2fb67973628.jpg",
+    "language": "Old Norse",
+    "title": "Njál's Saga"
+  },
+  {
+    "id": 8,
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103941215-4ccf2280-510d-11eb-8d2d-3f2f19cef722.jpg",
+    "language": "English",
+    "title": "Pride and Prejudice"
+  },
+  {
+    "id": 9,
+    "author": "Honoré de Balzac",
+    "country": "France",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103941425-94ee4500-510d-11eb-8a75-251161f3873b.jpg",
+    "language": "French",
+    "title": "Le Père Goriot"
+  },
+  {
+    "id": 10,
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103941794-252c8a00-510e-11eb-9881-25d64b9e7472.jpg",
+    "language": "French, English",
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy"
+  },
+  {
+    "id": 11,
+    "author": "Giovanni Boccaccio",
+    "country": "Italy",
+    "imageLink": "https://user-images.githubusercontent.com/22780253/103941896-4a20fd00-510e-11eb-9d9c-a211f97596b3.jpg",
+    "language": "Italian",
+    "title": "The Decameron"
+  }
+]
